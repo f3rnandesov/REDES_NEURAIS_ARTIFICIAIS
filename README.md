@@ -24,20 +24,6 @@ Aqui você encontrará conceitos fundamentais, códigos comentados linha a linha
 
 ---
 
-##  Conteúdo e Arquiteturas
-
-O repositório está organizado de forma progressiva:
-
-| Tópico | Sigla | Descrição | Status |
-| :--- | :---: | :--- | :---: |
-| **Fundamentos** | - | Perceptron simples, Funções de Ativação, Backpropagation e Gradient Descent (Matemática). | ✅ |
-| **Multilayer Perceptron** | `MLP` | Redes densas clássicas para problemas de classificação e regressão. | ✅ |
-| **Redes Convolucionais** | `CNN` | Foco em Visão Computacional, filtros, pooling e classificação de imagens. | 🚧 |
-| **Redes Recorrentes** | `RNN` | Processamento de sequências, séries temporais e NLP básico. | 🚧 |
-| **Projetos Práticos** | - | Aplicações reais (Ex: MNIST, Titanic, Previsão de Preços). | 🔄 |
-
----
-
 ##  Tech Stack
 
 As implementações utilizam as principais bibliotecas do ecossistema de Data Science:
