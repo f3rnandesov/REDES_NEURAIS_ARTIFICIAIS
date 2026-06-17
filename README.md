@@ -24,7 +24,7 @@ Aqui você encontrará conceitos fundamentais, códigos comentados linha a linha
 
 ---
 
-##  Tech Stack
+##  Ferramentas
 
 As implementações utilizam as principais bibliotecas do ecossistema de Data Science:
 
