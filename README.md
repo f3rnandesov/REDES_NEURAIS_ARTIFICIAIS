@@ -18,7 +18,7 @@
 
 ##  Sobre o Repositório
 
-Este repositório é dedicado ao estudo aprofundado e implementação de **Redes Neurais Artificiais (RNAs)**. O objetivo é desmistificar a "caixa preta" do Deep Learning, indo desde a matemática básica do Perceptron até arquiteturas complexas.
+Este repositório é dedicado ao estudo aprofundado e implementação de **Redes Neurais Artificiais**. O objetivo é desmistificar a "caixa preta" do Deep Learning, indo desde a matemática básica do Perceptron até arquiteturas complexas.
 
 Aqui você encontrará conceitos fundamentais, códigos comentados linha a linha, e experimentos práticos ideais para iniciantes e estudantes da área de Inteligência Artificial.
 
@@ -38,21 +38,3 @@ As implementações utilizam as principais bibliotecas do ecossistema de Data Sc
 </div>
 
 ---
-
-##  Como Executar
-
-Para rodar os notebooks ou scripts deste repositório, recomenda-se criar um ambiente virtual.
-
-```bash
-# Clone o repositório
-git clone [https://github.com/f3rnandesov/REDES_NEURAIS_ARTIFICIAIS.git](https://github.com/f3rnandesov/REDES_NEURAIS_ARTIFICIAIS.git)
-
-# Entre na pasta
-cd REDES_NEURAIS_ARTIFICIAIS
-
-# Crie um ambiente virtual (Opcional, mas recomendado)
-python -m venv venv
-source venv/bin/activate  # No Windows: venv\Scripts\activate
-
-# Instale as dependências
-pip install -r requirements.txt
